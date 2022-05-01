@@ -1,6 +1,6 @@
-# Elastic Stack with Docker
+# Elastic Stack with Docker
 
-## Installation
+## Installation
 
 ```shell 
 docker-compose up -d
@@ -24,13 +24,13 @@ docker exec -it es01 bin/elasticsearch-create-enrollment-token --scope kibana
 docker logs kib01
 ```
 
-## Stop
+## Stop
 
 ```shell
 docker-compose stop
 ```
 
-## Start
+## Start
 
 ```shell
 docker-compose start
