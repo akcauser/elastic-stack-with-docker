@@ -1,0 +1,4 @@
+.data/elasticsearch
+.data/kibana
+.DS_Store
+http_ca.crt
